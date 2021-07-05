@@ -30,3 +30,22 @@
 
 - Multidimensional theories hold that <em>a</em> may be an improvement to <em>b</em> along one dimension, but all-things-considered is farther away from the ideal <em>u</em>
     - For these theories, the location of <em>u</em> is required for measuring distances
+
+### 1.4 Dreaming
+> <em>My chief concern is analyzing a class of ideal theories according to which the specification of an ideal <b>is</b> of critical importance in making relative judgments of justice and, in some way, of orienting practice.</em> - p.15
+
+- Multidimensional concepts of justice face a computational challenge to account for both the justice of social states and their distance from the ideal social state. Some strategies:
+    1. Don't measure distance from the ideal (Sen's solution)
+    2. Don't measure justice of social states
+
+- _Purely ideal_ concepts of justice may posit (a) attainable or unattainable goals; which are (b) related or unrelated to pursuing justice in nonideal social worlds. _Dreaming_ ideals are purely ideal concepts of justice which posit unattainable goals that are (or may be) unrelated to pursuing justice in nonideal settings.
+    - Dreams of ideal justice may cause disorientation, hopelessness (although they may inspire hope as well), and are not action-guiding (on such a view, political philosophy is inert)
+    - David Estlund proposes _hopeless realism_, a kind of dreaming ideal which posits realistic goals that are not and will never be attained. Further, ideal justice ought _not_ guide our actions, because trying to accomplish perfect justice may lead to worse outcomes than pursuing less-than-ideal but more-likely-to-succed courses of action. Lastly, ideals of justice may be true even if they have no practical value
+- Our focus is on ideal theories that _are_ action-guiding and are important for making justice comparisons. Utopians need not believe that their theorizing is useless.
+
+### 1.5 Recommending--Rescuing Justice from Uselessness
+> <em>The orientation of **judgments** of justice cannot be the entire story; there must arrive a point at which a political philosophy concerned with justice yields recommendations about moving to more just social states. An ideal might be simply aspirational, but not the entire field of justice.</em> -p.17
+- Non-dreaming ideal theories may fail to be action-guiding in the actual world, even if they correctly evaluate the justice of many social states. Such theories would fail to explain practices of justice: demanding, complaining, blaming, claiming, agitating, "the justice system", punishments, editorials, social movements, consciousness-raising, revolutions. Even Estlund's theory allows for "concessive" justice that deals with less-than-ideal justice.
+- Action-guiding ideals need not be implementable, but they should be useful. Political philosophy should leverage judgments of justice to recommend actions that will improve justice conditions. 
+    - These recommendations will rely on social and economic theory, political science, and psychology. Different contexts will require different toolkits, but empirical sciences will be consulted; it isn't enough to focus on justifying normative judgments.
+        - <em>Aren't recommendations normative judgments? The "pure moral philosophy" vs. "recommendations based on empirical sciences" distinction seems ill-founded. - BL</em>
